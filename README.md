@@ -1,2 +1,3 @@
 # Data-Portfolio-Projects
-A repository containing projects that are data analysis, Excel, SQL etc oriented and not in other repositories
+A repository containing analysis done on the OWID Covid-19 data that will be mostly done in Python (Jupyter notebook) 
+and final results will be displayed in RMarkdown and Tableau.
